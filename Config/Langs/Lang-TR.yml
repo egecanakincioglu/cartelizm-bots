@@ -1,5 +1,0 @@
-Common:
-    LoadPresence: "Presence ayarları yapılıyor..."
-    LoadEvents: "Eventler sisteme yükleniyor..."
-    LoadCommands: "Komutlar sisteme yükleniyor..."
-    TokenConnected: "Token başarıyla bağlandı!"
