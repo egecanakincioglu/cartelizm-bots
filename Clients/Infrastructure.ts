@@ -1,0 +1,1 @@
+export { Client as Cartelizm, GatewayIntentBits } from 'discord.js';
