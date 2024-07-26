@@ -1,0 +1,22 @@
+System:
+    Locale: 'tr'
+
+Developer:
+    ID: ""
+    Name: ""
+
+Guild:
+    ID: ""
+    Name: ""
+    Channel: ""
+    Owners:
+        - ""
+        - ""
+
+Signature: ""
+
+Presence:
+    Status: ""
+    Messages:
+        - ""
+        - ""
