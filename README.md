@@ -6,7 +6,7 @@ Botumuz tamamen **TypeScript** dili kullanılarak yazılmıştır. Altyapı tama
 
 ## ⭐️ Ulaşılması Gereken Star Hedefi
 
-Hedefimizden bahsetmek gerekirse, bu repoya **80 yıldız** geldiği takdirde full artı full bir şekilde bot paylaşılacaktır. Hatası bulunmayacak ve sadece config dosyasındaki birkaç şeyi değiştirip tokenleri girerek botları kullanabileceksiniz. Botumuzda WEB Panel de bulunmaktadır ve yapım aşamasındadır. Fakat full stack çalıştığımız için web panel kısmı da **React, Next.js** gibi dilleri kullanmakta ve **SQL** temelli çalışmaktadır.
+Hedefimizden bahsetmek gerekirse, bu repoya **80 star** geldiği takdirde full artı full bir şekilde bot paylaşılacaktır. Hatası bulunmayacak ve sadece config dosyasındaki birkaç şeyi değiştirip tokenleri girerek botları kullanabileceksiniz. Botumuzda WEB Panel de bulunmaktadır ve yapım aşamasındadır. Fakat full stack çalıştığımız için web panel kısmı da **React, Next.js** gibi dilleri kullanmakta ve **SQL** temelli çalışmaktadır.
 
 ## ❗️ Çakma Botçulara İtibar Etmeyin ❗️
 
