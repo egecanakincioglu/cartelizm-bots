@@ -1,5 +1,0 @@
-Common:
-    LoadPresence: "Presence settings are being made..."
-    LoadEvents: "Events are being uploaded to the system..."
-    LoadCommands: "Loading commands into the system..."
-    TokenConnected: "Token connected successfully!"
