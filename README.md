@@ -14,7 +14,8 @@ Bu altyapı hepsini tokatlayacaktır 😄 Botların hiçbir açığı yoktur, da
 
 ## 🛠️ Repoda İsmi Geçen Developerlar
 
-- [Cartelizm](https://github.com/egecanakincioglu) - Bot Sahibi ve Ana Geliştirici
-- [Ancient](https://github.com/Ancienttt) - Komut ve Event Geliştiricisi
-- [Papaz Chavo](https://github.com/Papazchavo) - Komut ve Event Geliştiricisi
-- [Minik Militan](https://github.com/militancc) - Arayüz Geliştiricisi
+- [Cartelizm](https://github.com/egecanakincioglu) - Backend Development
+- [Ancient](https://github.com/Ancienttt) - Security Development
+- [Papaz Chavo](https://github.com/Papazchavo) - Frontend Development
+- [Minik Militan](https://github.com/militancc) - Database Development
+- [Wyntine](https://github.com/wyntine) - DevOps
